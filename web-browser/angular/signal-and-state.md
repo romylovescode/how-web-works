@@ -1,5 +1,8 @@
 ### Links
 - https://app.studyraid.com/en/read/12145/389799/what-defines-an-angular-signal
+- lean 10x faster with AI: https://app.studyraid.com/
+
+
 Angular Signals represent a fundamental shift in how we handle 
 reactive
  
